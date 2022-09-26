@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 seconds = int(input('Введите кол-во секунд: '))
 
 day = 86400

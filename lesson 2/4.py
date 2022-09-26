@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import math 
 x = 0.4*10**4
 y = -0.875
