@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-from re import S
-
-
 def sequence ():
     p = 0
     while True:
